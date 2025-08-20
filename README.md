@@ -11,12 +11,12 @@ A simple Python script (bitcoin_price.py) that fetches the live Bitcoin price fr
 - Easy to extend for other cryptocurrencies.
 
 ## Install the dependency using:
-
+```bash
 pip install requests
-
+```
 ## Getting an API Key
 
-visit [CoinCAP]{https://pro.coincap.io/dashboard} to get your API key
+visit [CoinCAP](https://pro.coincap.io/dashboard) to get your API key
 Navigate to your API settings.
 Generate a new API key.
 
